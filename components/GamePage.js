@@ -78,7 +78,7 @@ export default function GamePage() {
     <div className="bg-[url('/bg.jpg')] bg-bottom min-h-screen text-white font-extrabold text-2xl p-4 font-serif">
       ProgressBee
       {Array.from(correctWords).length === 0 && (
-        <div className='p-[.9rem]'></div>
+        <div className='p-[.88rem]'></div>
       )}
       <ul className='mt-8 flex flex-wrap justify-center'>
         {Array.from(correctWords).map((word, index) => (
