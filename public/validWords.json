@@ -1,63 +1,59 @@
 {
   "letters": [
-    "e",
-    "n",
     "k",
+    "l",
+    "b",
+    "u",
+    "n",
+    "i",
     "w",
-    "r",
-    "h",
-    "c",
-    "p"
+    "f"
   ],
   "stages": [
     {
-      "stage": "enkw",
+      "stage": "klbu",
       "words": [
-        "knew"
+        "bulk"
       ]
     },
     {
-      "stage": "enkwr",
+      "stage": "klbun",
       "words": [
-        "knew",
-        "wren"
+        "bulk",
+        "bunk"
       ]
     },
     {
-      "stage": "enkwrh",
+      "stage": "klbuni",
       "words": [
-        "knew",
-        "wren",
-        "when"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk"
       ]
     },
     {
-      "stage": "enkwrhc",
+      "stage": "klbuniw",
       "words": [
-        "neck",
-        "knew",
-        "wren",
-        "wrench",
-        "wreck",
-        "when",
-        "crew",
-        "chew"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk",
+        "wink"
       ]
     },
     {
-      "stage": "enkwrhcp",
+      "stage": "klbuniwf",
       "words": [
-        "neck",
-        "knew",
-        "wren",
-        "wrench",
-        "wreck",
-        "when",
-        "crew",
-        "chew",
-        "perk",
-        "perch",
-        "peck"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk",
+        "wink",
+        "flunk"
       ]
     }
   ]
