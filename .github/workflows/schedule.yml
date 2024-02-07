@@ -1,4 +1,4 @@
-name: Update Daily Game
+name: Updating Daily Game
 
 on:
   push:
