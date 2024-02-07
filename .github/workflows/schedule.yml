@@ -3,7 +3,7 @@ name: Scheduled Script Execution
 on:
   schedule:
     # Runs at 5:00 UTC every day
-    - cron: '53 1 * * *'
+    - cron: '0 2 * * *'
 
 jobs:
   run-script:
