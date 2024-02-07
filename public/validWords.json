@@ -1,0 +1,89 @@
+{
+  "letters": [
+    "t",
+    "d",
+    "b",
+    "e",
+    "y",
+    "f",
+    "a",
+    "k"
+  ],
+  "stages": [
+    {
+      "stage": "tdbe",
+      "words": [
+        "debt"
+      ]
+    },
+    {
+      "stage": "tdbey",
+      "words": [
+        "debt",
+        "byte"
+      ]
+    },
+    {
+      "stage": "tdbeyf",
+      "words": [
+        "debt",
+        "deft",
+        "defy",
+        "byte"
+      ]
+    },
+    {
+      "stage": "tdbeyfa",
+      "words": [
+        "debt",
+        "deft",
+        "defy",
+        "deaf",
+        "date",
+        "daft",
+        "beta",
+        "beat",
+        "bead",
+        "beady",
+        "byte",
+        "bade",
+        "bayed",
+        "feat",
+        "fate",
+        "fated",
+        "fade",
+        "abet"
+      ]
+    },
+    {
+      "stage": "tdbeyfak",
+      "words": [
+        "teak",
+        "take",
+        "debt",
+        "deft",
+        "defy",
+        "deaf",
+        "date",
+        "daft",
+        "beta",
+        "beat",
+        "bead",
+        "beady",
+        "beak",
+        "byte",
+        "bade",
+        "bayed",
+        "bake",
+        "baked",
+        "feat",
+        "fate",
+        "fated",
+        "fade",
+        "fake",
+        "faked",
+        "abet"
+      ]
+    }
+  ]
+}
