@@ -98,7 +98,7 @@ export default function GamePage() {
         />
         <Button onClick={handleWordSubmit} colorScheme="green" className='mt-8'>Submit</Button>
         {errorMessage && <div className="mt-8 pt-4 text-amber-400">{errorMessage}</div>}
-        {stageTransitionMessage && <div className="text-black pt-4 mt-8 my-4">{stageTransitionMessage}</div>}
+        {stageTransitionMessage && <div className="text-lime-200 pt-4 mt-8 my-4">{stageTransitionMessage}</div>}
       </div>
     </div>
   );
