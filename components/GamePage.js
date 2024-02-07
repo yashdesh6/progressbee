@@ -85,7 +85,7 @@ export default function GamePage() {
           <li className='mx-1 text-xl' key={index}>{word}</li> // Display each correct word
         ))}
       </ul>
-      <div className="flex flex-col items-center justify-center mt-24">
+      <div className="flex flex-col items-center justify-center mt-16">
         <div className='font-semibold text-3xl pb-8'>{letters.toUpperCase().split('').join(' ')}</div>
         <Input
           placeholder='Enter word'
