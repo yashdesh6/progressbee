@@ -14,7 +14,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '20'
+        node-version: '14'
 
     - name: Install dependencies
       run: npm install
@@ -24,8 +24,8 @@ jobs:
       
     - name: Commit and push if changes
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
-        git add validWords.json
+        git config --global user.email "yashdesh6@gmail.com"
+        git config --global user.name "Yash Deshmukh"
+        git add public/validWords.json
         git commit -m "Update validWords.json" || exit 0   # The exit 0 command is used to prevent the script from failing if there are no changes
         git push
