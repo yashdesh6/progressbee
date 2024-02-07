@@ -39,6 +39,7 @@ export default function GamePage() {
     if (currentStage && currentStage.words.includes(currentWord.toLowerCase())) {
       if (correctWords.has(currentWord.toLowerCase())) {
         setErrorMessage("You have already guessed this word.");
+        setTimeout(() => setErrorMessage(''), 2000);
       } else {
         setCorrectWords(prev => new Set(prev.add(currentWord.toLowerCase())));
         setCurrentWord('');
@@ -46,7 +47,7 @@ export default function GamePage() {
       }
     } else {
       setErrorMessage("Invalid word. Please try again.");
-      setTimeout(() => setErrorMessage(''), 3000);
+      setTimeout(() => setErrorMessage(''), 2000);
     }
   };
   
@@ -80,7 +81,7 @@ export default function GamePage() {
         />
         <Button onClick={handleWordSubmit} colorScheme="green" className='mt-8'>Submit</Button>
         {errorMessage && <div className="mt-8 pt-4 text-amber-400">{errorMessage}</div>}
-        {stageTransitionMessage && <div className="text-green-400 pt-4 mt-8 my-4 ">{stageTransitionMessage}</div>}
+        {stageTransitionMessage && <div className="text-emerald-500 pt-4 mt-8 my-4 ">{stageTransitionMessage}</div>}
 
 
       </div>
