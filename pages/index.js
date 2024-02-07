@@ -37,14 +37,19 @@ export default function GamePage() {
   const handleWordSubmit = () => {
     const currentStage = stages[currentStageIndex];
     if (currentStage && currentStage.words.includes(currentWord.toLowerCase())) {
-      setCorrectWords(prev => new Set(prev.add(currentWord.toLowerCase())));
-      setCurrentWord('');
-      setErrorMessage('');
+      if (correctWords.has(currentWord.toLowerCase())) {
+        setErrorMessage("You have already guessed this word.");
+      } else {
+        setCorrectWords(prev => new Set(prev.add(currentWord.toLowerCase())));
+        setCurrentWord('');
+        setErrorMessage('');
+      }
     } else {
       setErrorMessage("Invalid word. Please try again.");
+      setTimeout(() => setErrorMessage(''), 3000);
     }
   };
-
+  
   const handleKeyPress = (event) => {
     if (event.key === 'Enter') {
       handleWordSubmit();
