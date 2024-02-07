@@ -1,8 +1,8 @@
-name: Scheduled Script Execution
+name: Update Daily Game
 
 on:
-    push:
-        branches: [ main ]
+  push:
+    branches: [main]
 
 jobs:
   run-script:
@@ -10,16 +10,22 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-      
+
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '20' # Specify the Node.js version you need
+        node-version: '14'
 
     - name: Install dependencies
       run: npm install
-      # If you don't have external dependencies, you can remove this step.
       
     - name: Execute script
       run: node getWords.js
-      # Replace "path/to/your/script.js" with the actual path to your script within the repository.
+      
+    - name: Commit and push if changes
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add validWords.json
+        git commit -m "Update validWords.json" || exit 0   # The exit 0 command is used to prevent the script from failing if there are no changes
+        git push
