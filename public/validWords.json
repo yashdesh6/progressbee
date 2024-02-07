@@ -1,135 +1,59 @@
 {
   "letters": [
-    "s",
-    "p",
+    "k",
+    "l",
+    "b",
+    "u",
+    "n",
     "i",
-    "h",
-    "t",
-    "g",
-    "e",
-    "l"
+    "w",
+    "f"
   ],
   "stages": [
     {
-      "stage": "spih",
+      "stage": "klbu",
       "words": [
-        "ship",
-        "hips"
+        "bulk"
       ]
     },
     {
-      "stage": "spiht",
+      "stage": "klbun",
       "words": [
-        "spit",
-        "ship",
-        "pits",
-        "hips",
-        "hits",
-        "tips",
-        "this"
+        "bulk",
+        "bunk"
       ]
     },
     {
-      "stage": "spihtg",
+      "stage": "klbuni",
       "words": [
-        "spit",
-        "sigh",
-        "sight",
-        "ship",
-        "pits",
-        "pigs",
-        "hips",
-        "hits",
-        "tips",
-        "this",
-        "gist"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk"
       ]
     },
     {
-      "stage": "spihtge",
+      "stage": "klbuniw",
       "words": [
-        "spit",
-        "spite",
-        "site",
-        "sigh",
-        "sight",
-        "ship",
-        "step",
-        "pits",
-        "pigs",
-        "pies",
-        "pest",
-        "pets",
-        "pegs",
-        "hips",
-        "hits",
-        "tips",
-        "ties",
-        "this",
-        "gist",
-        "gets",
-        "eight",
-        "eights"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk",
+        "wink"
       ]
     },
     {
-      "stage": "spihtgel",
+      "stage": "klbuniwf",
       "words": [
-        "spit",
-        "spite",
-        "split",
-        "site",
-        "sigh",
-        "sight",
-        "silt",
-        "ship",
-        "step",
-        "slip",
-        "slit",
-        "slight",
-        "slept",
-        "sleigh",
-        "pits",
-        "pigs",
-        "pies",
-        "pile",
-        "piles",
-        "pest",
-        "pets",
-        "pegs",
-        "pelt",
-        "pelts",
-        "plight",
-        "plights",
-        "plies",
-        "isle",
-        "hips",
-        "hits",
-        "hilt",
-        "hilts",
-        "help",
-        "helps",
-        "tips",
-        "ties",
-        "tile",
-        "tiles",
-        "this",
-        "gist",
-        "gilt",
-        "gilts",
-        "gets",
-        "eight",
-        "eights",
-        "lisp",
-        "list",
-        "lips",
-        "lithe",
-        "light",
-        "lights",
-        "lies",
-        "lest",
-        "lets",
-        "legs"
+        "kiln",
+        "link",
+        "blink",
+        "bulk",
+        "bunk",
+        "wink",
+        "flunk"
       ]
     }
   ]
