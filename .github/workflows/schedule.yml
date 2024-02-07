@@ -2,7 +2,7 @@ name: Updating Daily Game
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '30 12 * * *'
   
 
 permissions: write-all
