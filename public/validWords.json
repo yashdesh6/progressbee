@@ -1,88 +1,77 @@
 {
   "letters": [
-    "t",
-    "d",
-    "b",
+    "p",
+    "r",
+    "u",
     "e",
     "y",
-    "f",
-    "a",
-    "k"
+    "b",
+    "h",
+    "t"
   ],
   "stages": [
     {
-      "stage": "tdbe",
+      "stage": "prue",
       "words": [
-        "debt"
+        "pure"
       ]
     },
     {
-      "stage": "tdbey",
+      "stage": "pruey",
       "words": [
-        "debt",
-        "byte"
+        "prey",
+        "pure",
+        "pyre"
       ]
     },
     {
-      "stage": "tdbeyf",
+      "stage": "prueyb",
       "words": [
-        "debt",
-        "deft",
-        "defy",
-        "byte"
+        "prey",
+        "pure",
+        "pyre",
+        "ruby",
+        "burp",
+        "bury",
+        "buyer"
       ]
     },
     {
-      "stage": "tdbeyfa",
+      "stage": "prueybh",
       "words": [
-        "debt",
-        "deft",
-        "defy",
-        "deaf",
-        "date",
-        "daft",
-        "beta",
-        "beat",
-        "bead",
-        "beady",
+        "prey",
+        "pure",
+        "pyre",
+        "ruby",
+        "burp",
+        "bury",
+        "buyer",
+        "herb"
+      ]
+    },
+    {
+      "stage": "prueybht",
+      "words": [
+        "prey",
+        "pure",
+        "puberty",
+        "pert",
+        "pyre",
+        "ruby",
+        "rebut",
+        "erupt",
+        "brute",
+        "burp",
+        "bury",
+        "buyer",
+        "berth",
         "byte",
-        "bade",
-        "bayed",
-        "feat",
-        "fate",
-        "fated",
-        "fade",
-        "abet"
-      ]
-    },
-    {
-      "stage": "tdbeyfak",
-      "words": [
-        "teak",
-        "take",
-        "debt",
-        "deft",
-        "defy",
-        "deaf",
-        "date",
-        "daft",
-        "beta",
-        "beat",
-        "bead",
-        "beady",
-        "beak",
-        "byte",
-        "bade",
-        "bayed",
-        "bake",
-        "baked",
-        "feat",
-        "fate",
-        "fated",
-        "fade",
-        "fake",
-        "faked",
-        "abet"
+        "hurt",
+        "herb",
+        "true",
+        "tube",
+        "type",
+        "they"
       ]
     }
   ]
