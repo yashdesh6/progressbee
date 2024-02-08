@@ -53,7 +53,7 @@ export default function GamePage() {
 
   const handleWordSubmit = () => {
     
-      if (currentWord.toLowerCase() === "igiveup") {
+      if (currentWord.toLowerCase() === "igiveup" && !(foundAllCurrentStageWords && currentStageIndex === stages.length - 1)) {
         // Find the words for the current stage that haven't been guessed
         const currentStageWords = stages[currentStageIndex]?.words || [];
         const missingWords = currentStageWords.filter(word => !correctWords.has(word));
