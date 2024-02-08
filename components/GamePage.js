@@ -75,7 +75,7 @@ export default function GamePage() {
   };
 
   return (
-    <div className="bg-[url('/bg.jpg')] bg-bottom min-h-screen text-white font-extrabold text-2xl p-4 font-serif">
+    <div className="bg-[url('/bg.jpg')] bg-bottom bg-cover min-h-screen text-white font-extrabold text-2xl p-4 font-serif">
       ProgressBee
       {Array.from(correctWords).length === 0 && (
         <div className='p-[.88rem]'></div>
