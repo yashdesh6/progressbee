@@ -52,6 +52,19 @@ export default function GamePage() {
   }, [correctWords, currentStageIndex, stages]);
 
   const handleWordSubmit = () => {
+    
+      if (currentWord.toLowerCase() === "igiveup") {
+        // Find the words for the current stage that haven't been guessed
+        const currentStageWords = stages[currentStageIndex]?.words || [];
+        const missingWords = currentStageWords.filter(word => !correctWords.has(word));
+    
+        // Set the error message to show the missing words
+        setErrorMessage(`Missing words: ${missingWords.join(', ')}`);
+        setCurrentWord(''); // Clear the input field
+    
+        // Optionally, prevent the "I give up" message from being cleared automatically
+        // or adjust the logic as per your application's needs.
+      } else {
     const currentStage = stages[currentStageIndex];
     if (currentStage && currentStage.words.includes(currentWord.toLowerCase())) {
       if (correctWords.has(currentWord.toLowerCase())) {
@@ -66,6 +79,8 @@ export default function GamePage() {
       setErrorMessage("Invalid word. Please try again.");
       setTimeout(() => setErrorMessage(''), 1000);
     }
+  }
+
   };
 
   const handleKeyPress = (event) => {
