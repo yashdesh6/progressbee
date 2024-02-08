@@ -62,6 +62,10 @@ export default function GamePage() {
         if(missingWords.length > 0) {
           setErrorMessage(`Missing words: ${missingWords.join(', ')}`);
         }
+        else {
+          setErrorMessage("You already won!");
+          setTimeout(() => setErrorMessage(''), 1000);
+        }
         
         setCurrentWord(''); // Clear the input field
     
