@@ -59,7 +59,10 @@ export default function GamePage() {
         const missingWords = currentStageWords.filter(word => !correctWords.has(word));
     
         // Set the error message to show the missing words
-        setErrorMessage(`Missing words: ${missingWords.join(', ')}`);
+        if(missingWords.length > 0) {
+          setErrorMessage(`Missing words: ${missingWords.join(', ')}`);
+        }
+        
         setCurrentWord(''); // Clear the input field
     
         // Optionally, prevent the "I give up" message from being cleared automatically
