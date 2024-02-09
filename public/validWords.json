@@ -1,72 +1,81 @@
 {
   "letters": [
-    "y",
-    "d",
     "a",
-    "l",
-    "m",
+    "p",
+    "c",
+    "e",
     "o",
-    "z",
-    "t"
+    "m",
+    "b",
+    "j"
   ],
   "stages": [
     {
-      "stage": "ydal",
+      "stage": "apce",
       "words": [
-        "lady"
+        "pace",
+        "cape"
       ]
     },
     {
-      "stage": "ydalm",
+      "stage": "apceo",
       "words": [
-        "lady",
-        "madly"
+        "pace",
+        "cape",
+        "cope"
       ]
     },
     {
-      "stage": "ydalmo",
+      "stage": "apceom",
       "words": [
-        "lady",
-        "load",
-        "loam",
-        "madly",
-        "modal",
-        "mold",
-        "moldy"
+        "pace",
+        "poem",
+        "cape",
+        "camp",
+        "came",
+        "cameo",
+        "cope",
+        "coma",
+        "come",
+        "mace",
+        "mope"
       ]
     },
     {
-      "stage": "ydalmoz",
+      "stage": "apceomb",
       "words": [
-        "lady",
-        "lazy",
-        "load",
-        "loam",
-        "madly",
-        "modal",
-        "mold",
-        "moldy"
+        "pace",
+        "poem",
+        "cape",
+        "camp",
+        "came",
+        "cameo",
+        "cope",
+        "coma",
+        "come",
+        "comb",
+        "mace",
+        "mope",
+        "beam"
       ]
     },
     {
-      "stage": "ydalmozt",
+      "stage": "apceombj",
       "words": [
-        "alto",
-        "atom",
-        "lady",
-        "lazy",
-        "load",
-        "loam",
-        "madly",
-        "malt",
-        "modal",
-        "moat",
-        "mold",
-        "moldy",
-        "molt",
-        "today",
-        "toad",
-        "told"
+        "pace",
+        "poem",
+        "cape",
+        "camp",
+        "came",
+        "cameo",
+        "cope",
+        "coma",
+        "come",
+        "comb",
+        "mace",
+        "mope",
+        "beam",
+        "jamb"
       ]
     }
   ]
