@@ -1,81 +1,86 @@
 {
   "letters": [
-    "a",
-    "p",
-    "c",
     "e",
-    "o",
+    "h",
+    "v",
+    "a",
+    "t",
     "m",
     "b",
-    "j"
+    "w"
   ],
   "stages": [
     {
-      "stage": "apce",
+      "stage": "ehva",
       "words": [
-        "pace",
-        "cape"
+        "have"
       ]
     },
     {
-      "stage": "apceo",
+      "stage": "ehvat",
       "words": [
-        "pace",
-        "cape",
-        "cope"
+        "heat",
+        "have",
+        "hate"
       ]
     },
     {
-      "stage": "apceom",
+      "stage": "ehvatm",
       "words": [
-        "pace",
-        "poem",
-        "cape",
-        "camp",
-        "came",
-        "cameo",
-        "cope",
-        "coma",
-        "come",
-        "mace",
-        "mope"
+        "heat",
+        "have",
+        "hate",
+        "team",
+        "them",
+        "tame",
+        "meat",
+        "mate",
+        "math"
       ]
     },
     {
-      "stage": "apceomb",
+      "stage": "ehvatmb",
       "words": [
-        "pace",
-        "poem",
-        "cape",
-        "camp",
-        "came",
-        "cameo",
-        "cope",
-        "coma",
-        "come",
-        "comb",
-        "mace",
-        "mope",
-        "beam"
-      ]
-    },
-    {
-      "stage": "apceombj",
-      "words": [
-        "pace",
-        "poem",
-        "cape",
-        "camp",
-        "came",
-        "cameo",
-        "cope",
-        "coma",
-        "come",
-        "comb",
-        "mace",
-        "mope",
+        "heat",
+        "have",
+        "hate",
+        "abet",
+        "team",
+        "them",
+        "tame",
+        "meat",
+        "mate",
+        "math",
+        "beat",
         "beam",
-        "jamb"
+        "beta",
+        "bath",
+        "bathe"
+      ]
+    },
+    {
+      "stage": "ehvatmbw",
+      "words": [
+        "heat",
+        "have",
+        "hate",
+        "abet",
+        "team",
+        "them",
+        "thaw",
+        "tame",
+        "meat",
+        "mate",
+        "math",
+        "beat",
+        "beam",
+        "beta",
+        "bath",
+        "bathe",
+        "wheat",
+        "whet",
+        "what",
+        "wave"
       ]
     }
   ]
