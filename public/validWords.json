@@ -1,86 +1,67 @@
 {
   "letters": [
-    "e",
-    "h",
-    "v",
-    "a",
     "t",
-    "m",
-    "b",
-    "w"
+    "l",
+    "i",
+    "a",
+    "p",
+    "h",
+    "n"
   ],
   "stages": [
     {
-      "stage": "ehva",
+      "stage": "tli",
+      "words": []
+    },
+    {
+      "stage": "tlia",
       "words": [
-        "have"
+        "tail"
       ]
     },
     {
-      "stage": "ehvat",
+      "stage": "tliap",
       "words": [
-        "heat",
-        "have",
-        "hate"
+        "tail",
+        "pail"
       ]
     },
     {
-      "stage": "ehvatm",
+      "stage": "tliaph",
       "words": [
-        "heat",
-        "have",
-        "hate",
-        "team",
-        "them",
-        "tame",
-        "meat",
-        "mate",
-        "math"
+        "tail",
+        "lath",
+        "path",
+        "pail",
+        "hilt",
+        "halt",
+        "hail"
       ]
     },
     {
-      "stage": "ehvatmb",
+      "stage": "tliaphn",
       "words": [
-        "heat",
-        "have",
-        "hate",
-        "abet",
-        "team",
-        "them",
-        "tame",
-        "meat",
-        "mate",
-        "math",
-        "beat",
-        "beam",
-        "beta",
-        "bath",
-        "bathe"
-      ]
-    },
-    {
-      "stage": "ehvatmbw",
-      "words": [
-        "heat",
-        "have",
-        "hate",
-        "abet",
-        "team",
-        "them",
-        "thaw",
-        "tame",
-        "meat",
-        "mate",
-        "math",
-        "beat",
-        "beam",
-        "beta",
-        "bath",
-        "bathe",
-        "wheat",
-        "whet",
-        "what",
-        "wave"
+        "tail",
+        "thin",
+        "than",
+        "lint",
+        "lath",
+        "lain",
+        "pliant",
+        "plain",
+        "plan",
+        "plant",
+        "pint",
+        "path",
+        "pail",
+        "pain",
+        "paint",
+        "pant",
+        "hilt",
+        "hint",
+        "halt",
+        "hail",
+        "nail"
       ]
     }
   ]
