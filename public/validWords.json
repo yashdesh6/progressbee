@@ -1,67 +1,80 @@
 {
   "letters": [
-    "t",
-    "l",
-    "i",
-    "a",
     "p",
+    "s",
     "h",
-    "n"
+    "u",
+    "k",
+    "y",
+    "m",
+    "a"
   ],
   "stages": [
     {
-      "stage": "tli",
-      "words": []
-    },
-    {
-      "stage": "tlia",
+      "stage": "pshu",
       "words": [
-        "tail"
+        "push"
       ]
     },
     {
-      "stage": "tliap",
+      "stage": "pshuk",
       "words": [
-        "tail",
-        "pail"
+        "push",
+        "husk"
       ]
     },
     {
-      "stage": "tliaph",
+      "stage": "pshuky",
       "words": [
-        "tail",
-        "lath",
-        "path",
-        "pail",
-        "hilt",
-        "halt",
-        "hail"
+        "push",
+        "pushy",
+        "husk",
+        "husky"
       ]
     },
     {
-      "stage": "tliaphn",
+      "stage": "pshukym",
       "words": [
-        "tail",
-        "thin",
-        "than",
-        "lint",
-        "lath",
-        "lain",
-        "pliant",
-        "plain",
-        "plan",
-        "plant",
-        "pint",
-        "path",
-        "pail",
-        "pain",
-        "paint",
-        "pant",
-        "hilt",
-        "hint",
-        "halt",
-        "hail",
-        "nail"
+        "push",
+        "pushy",
+        "husk",
+        "husky",
+        "hump",
+        "humps",
+        "hums",
+        "mush",
+        "mushy",
+        "musk"
+      ]
+    },
+    {
+      "stage": "pshukyma",
+      "words": [
+        "push",
+        "pushy",
+        "puma",
+        "pumas",
+        "pays",
+        "spay",
+        "shaky",
+        "sham",
+        "husk",
+        "husky",
+        "hump",
+        "humps",
+        "hums",
+        "hays",
+        "hams",
+        "yaps",
+        "yaks",
+        "yams",
+        "mush",
+        "mushy",
+        "musk",
+        "maps",
+        "mash",
+        "mask",
+        "amps"
       ]
     }
   ]
