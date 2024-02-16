@@ -1,128 +1,55 @@
 {
   "letters": [
+    "j",
     "o",
-    "l",
-    "e",
-    "s",
-    "u",
-    "i",
     "n",
+    "h",
+    "k",
+    "u",
+    "r",
     "b"
   ],
   "stages": [
     {
-      "stage": "oles",
+      "stage": "jonh",
+      "words": []
+    },
+    {
+      "stage": "jonhk",
       "words": [
-        "lose",
-        "sole"
+        "honk"
       ]
     },
     {
-      "stage": "olesu",
+      "stage": "jonhku",
       "words": [
-        "lose",
-        "louse",
-        "sole",
-        "soul"
+        "junk",
+        "honk",
+        "hunk"
       ]
     },
     {
-      "stage": "olesui",
+      "stage": "jonhkur",
       "words": [
-        "oils",
-        "lose",
-        "louse",
-        "lies",
-        "lieu",
-        "sole",
-        "soul",
-        "soil",
-        "silo",
-        "isle"
+        "junk",
+        "honk",
+        "hour",
+        "horn",
+        "hunk"
       ]
     },
     {
-      "stage": "olesuin",
+      "stage": "jonhkurb",
       "words": [
-        "oils",
-        "ones",
-        "onus",
-        "lose",
-        "louse",
-        "loin",
-        "loins",
-        "lone",
-        "lesion",
-        "lens",
-        "lion",
-        "lions",
-        "lies",
-        "lieu",
-        "line",
-        "lines",
-        "eons",
-        "sole",
-        "soul",
-        "soil",
-        "silo",
-        "sine",
-        "ions",
-        "isle",
-        "noes",
-        "nose",
-        "noise"
-      ]
-    },
-    {
-      "stage": "olesuinb",
-      "words": [
-        "oils",
-        "ones",
-        "onus",
-        "lose",
-        "louse",
-        "loin",
-        "loins",
-        "lone",
-        "lobe",
-        "lobes",
-        "lobs",
-        "lesion",
-        "lens",
-        "lion",
-        "lions",
-        "lies",
-        "lieu",
-        "line",
-        "lines",
-        "eons",
-        "sole",
-        "soul",
-        "soil",
-        "slob",
-        "silo",
-        "sine",
-        "snob",
-        "snub",
-        "ions",
-        "isle",
-        "noes",
-        "nose",
-        "noise",
-        "noble",
-        "nobles",
-        "boil",
-        "boils",
-        "bone",
-        "bones",
-        "bonus",
-        "blouse",
-        "blue",
-        "blues",
-        "buns",
-        "bile",
-        "bison",
-        "bins"
+        "junk",
+        "honk",
+        "hour",
+        "horn",
+        "hunk",
+        "knob",
+        "born",
+        "bunk",
+        "burn"
       ]
     }
   ]
