@@ -1,55 +1,90 @@
 {
   "letters": [
-    "j",
-    "o",
+    "w",
+    "t",
     "n",
-    "h",
+    "o",
+    "i",
+    "g",
     "k",
-    "u",
-    "r",
-    "b"
+    "f"
   ],
   "stages": [
     {
-      "stage": "jonh",
-      "words": []
-    },
-    {
-      "stage": "jonhk",
+      "stage": "wtno",
       "words": [
-        "honk"
+        "wont",
+        "town"
       ]
     },
     {
-      "stage": "jonhku",
+      "stage": "wtnoi",
       "words": [
-        "junk",
-        "honk",
-        "hunk"
+        "wont",
+        "twin",
+        "town",
+        "into"
       ]
     },
     {
-      "stage": "jonhkur",
+      "stage": "wtnoig",
       "words": [
-        "junk",
-        "honk",
-        "hour",
-        "horn",
-        "hunk"
+        "wont",
+        "wing",
+        "twin",
+        "twig",
+        "town",
+        "towing",
+        "tong",
+        "ting",
+        "owing",
+        "into",
+        "gown"
       ]
     },
     {
-      "stage": "jonhkurb",
+      "stage": "wtnoigk",
       "words": [
-        "junk",
-        "honk",
-        "hour",
-        "horn",
-        "hunk",
-        "knob",
-        "born",
-        "bunk",
-        "burn"
+        "wont",
+        "wing",
+        "wink",
+        "twin",
+        "twig",
+        "town",
+        "towing",
+        "tong",
+        "ting",
+        "owing",
+        "into",
+        "gown",
+        "know",
+        "knot",
+        "knit",
+        "king"
+      ]
+    },
+    {
+      "stage": "wtnoigkf",
+      "words": [
+        "wont",
+        "wing",
+        "wink",
+        "twin",
+        "twig",
+        "town",
+        "towing",
+        "tong",
+        "ting",
+        "owing",
+        "into",
+        "info",
+        "gown",
+        "gift",
+        "know",
+        "knot",
+        "knit",
+        "king",
+        "font"
       ]
     }
   ]
