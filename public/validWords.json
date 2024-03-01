@@ -1,46 +1,67 @@
 {
   "letters": [
-    "o",
-    "m",
-    "n",
-    "k",
-    "e",
+    "a",
+    "c",
+    "t",
+    "h",
+    "i",
     "x",
-    "j"
+    "y",
+    "n"
   ],
   "stages": [
     {
-      "stage": "omn",
-      "words": []
-    },
-    {
-      "stage": "omnk",
+      "stage": "acth",
       "words": [
-        "monk"
+        "chat"
       ]
     },
     {
-      "stage": "omnke",
+      "stage": "acthi",
       "words": [
-        "omen",
-        "monk"
+        "chat",
+        "itch"
       ]
     },
     {
-      "stage": "omnkex",
+      "stage": "acthix",
       "words": [
-        "omen",
-        "oxen",
-        "monk"
+        "chat",
+        "taxi",
+        "itch"
       ]
     },
     {
-      "stage": "omnkexj",
+      "stage": "acthixy",
       "words": [
-        "omen",
-        "oxen",
-        "monk",
-        "joke"
+        "chat",
+        "city",
+        "taxi",
+        "itch",
+        "itchy",
+        "yacht"
+      ]
+    },
+    {
+      "stage": "acthixyn",
+      "words": [
+        "antic",
+        "cant",
+        "chat",
+        "chain",
+        "chant",
+        "chin",
+        "china",
+        "city",
+        "taxi",
+        "than",
+        "thin",
+        "tiny",
+        "hint",
+        "itch",
+        "itchy",
+        "inch",
+        "yacht"
       ]
     }
   ]
