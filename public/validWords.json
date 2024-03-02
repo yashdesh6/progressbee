@@ -1,67 +1,101 @@
 {
   "letters": [
-    "a",
-    "c",
+    "p",
+    "s",
+    "e",
     "t",
-    "h",
-    "i",
-    "x",
-    "y",
-    "n"
+    "v",
+    "g",
+    "r",
+    "u"
   ],
   "stages": [
     {
-      "stage": "acth",
+      "stage": "pset",
       "words": [
-        "chat"
+        "pest",
+        "pets",
+        "step"
       ]
     },
     {
-      "stage": "acthi",
+      "stage": "psetv",
       "words": [
-        "chat",
-        "itch"
+        "pest",
+        "pets",
+        "step",
+        "vest",
+        "vets"
       ]
     },
     {
-      "stage": "acthix",
+      "stage": "psetvg",
       "words": [
-        "chat",
-        "taxi",
-        "itch"
+        "pest",
+        "pets",
+        "pegs",
+        "step",
+        "vest",
+        "vets",
+        "gets"
       ]
     },
     {
-      "stage": "acthixy",
+      "stage": "psetvgr",
       "words": [
-        "chat",
-        "city",
-        "taxi",
-        "itch",
-        "itchy",
-        "yacht"
+        "pest",
+        "pets",
+        "pegs",
+        "pert",
+        "step",
+        "vest",
+        "vets",
+        "gets",
+        "rest",
+        "revs"
       ]
     },
     {
-      "stage": "acthixyn",
+      "stage": "psetvgru",
       "words": [
-        "antic",
-        "cant",
-        "chat",
-        "chain",
-        "chant",
-        "chin",
-        "china",
-        "city",
-        "taxi",
-        "than",
-        "thin",
-        "tiny",
-        "hint",
-        "itch",
-        "itchy",
-        "inch",
-        "yacht"
+        "pest",
+        "pets",
+        "pegs",
+        "pert",
+        "puts",
+        "purse",
+        "pure",
+        "purest",
+        "purge",
+        "purges",
+        "spur",
+        "spurt",
+        "step",
+        "super",
+        "sure",
+        "surge",
+        "erupt",
+        "erupts",
+        "true",
+        "trues",
+        "tugs",
+        "vest",
+        "vets",
+        "gets",
+        "gust",
+        "guest",
+        "guts",
+        "rest",
+        "revs",
+        "ruse",
+        "rust",
+        "rues",
+        "ruts",
+        "rugs",
+        "upset",
+        "user",
+        "urge",
+        "urges"
       ]
     }
   ]
