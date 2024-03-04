@@ -1,98 +1,54 @@
 {
   "letters": [
-    "a",
-    "e",
+    "r",
     "v",
-    "h",
-    "t",
+    "y",
+    "e",
     "n",
-    "k",
-    "l"
+    "f",
+    "z",
+    "p"
   ],
   "stages": [
     {
-      "stage": "aevh",
+      "stage": "rvye",
       "words": [
-        "have"
+        "very"
       ]
     },
     {
-      "stage": "aevht",
+      "stage": "rvyen",
       "words": [
-        "have",
-        "hate",
-        "heat"
+        "very",
+        "envy"
       ]
     },
     {
-      "stage": "aevhtn",
+      "stage": "rvyenf",
       "words": [
-        "vane",
-        "vent",
-        "have",
-        "haven",
-        "hate",
-        "heat",
-        "than",
-        "then",
-        "neat"
+        "very",
+        "envy",
+        "fern"
       ]
     },
     {
-      "stage": "aevhtnk",
+      "stage": "rvyenfz",
       "words": [
-        "vane",
-        "vent",
-        "have",
-        "haven",
-        "hate",
-        "heat",
-        "tank",
-        "take",
-        "taken",
-        "teak",
-        "than",
-        "thank",
-        "then",
-        "neat"
+        "very",
+        "envy",
+        "frenzy",
+        "fern"
       ]
     },
     {
-      "stage": "aevhtnkl",
+      "stage": "rvyenfzp",
       "words": [
-        "ankle",
-        "vane",
-        "valet",
-        "veal",
-        "vent",
-        "have",
-        "haven",
-        "hate",
-        "hale",
-        "halve",
-        "halt",
-        "heat",
-        "heal",
-        "tank",
-        "take",
-        "taken",
-        "tale",
-        "talk",
-        "teak",
-        "than",
-        "thank",
-        "then",
-        "navel",
-        "neat",
-        "knelt",
-        "late",
-        "lath",
-        "lathe",
-        "lane",
-        "lake",
-        "lean",
-        "leak",
-        "lent"
+        "very",
+        "envy",
+        "frenzy",
+        "fern",
+        "prey",
+        "pyre"
       ]
     }
   ]
