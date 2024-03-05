@@ -1,54 +1,66 @@
 {
   "letters": [
-    "r",
-    "v",
+    "s",
+    "d",
     "y",
-    "e",
-    "n",
+    "a",
+    "g",
+    "t",
     "f",
-    "z",
-    "p"
+    "k"
   ],
   "stages": [
     {
-      "stage": "rvye",
+      "stage": "sdya",
       "words": [
-        "very"
+        "days"
       ]
     },
     {
-      "stage": "rvyen",
+      "stage": "sdyag",
       "words": [
-        "very",
-        "envy"
+        "days",
+        "gays"
       ]
     },
     {
-      "stage": "rvyenf",
+      "stage": "sdyagt",
       "words": [
-        "very",
-        "envy",
-        "fern"
+        "stay",
+        "stag",
+        "days",
+        "gays",
+        "tags"
       ]
     },
     {
-      "stage": "rvyenfz",
+      "stage": "sdyagtf",
       "words": [
-        "very",
-        "envy",
-        "frenzy",
-        "fern"
+        "stay",
+        "stag",
+        "days",
+        "daft",
+        "gays",
+        "tags",
+        "fast",
+        "fads",
+        "fats"
       ]
     },
     {
-      "stage": "rvyenfzp",
+      "stage": "sdyagtfk",
       "words": [
-        "very",
-        "envy",
-        "frenzy",
-        "fern",
-        "prey",
-        "pyre"
+        "stay",
+        "stag",
+        "days",
+        "daft",
+        "yaks",
+        "gays",
+        "task",
+        "tags",
+        "fast",
+        "fads",
+        "fats"
       ]
     }
   ]
