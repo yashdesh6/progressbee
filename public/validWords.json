@@ -1,66 +1,82 @@
 {
   "letters": [
-    "s",
-    "d",
-    "y",
     "a",
-    "g",
+    "l",
+    "i",
+    "r",
+    "j",
     "t",
-    "f",
-    "k"
+    "k",
+    "p"
   ],
   "stages": [
     {
-      "stage": "sdya",
+      "stage": "alir",
       "words": [
-        "days"
+        "lair",
+        "liar",
+        "rail"
       ]
     },
     {
-      "stage": "sdyag",
+      "stage": "alirj",
       "words": [
-        "days",
-        "gays"
+        "lair",
+        "liar",
+        "rail",
+        "jail"
       ]
     },
     {
-      "stage": "sdyagt",
+      "stage": "alirjt",
       "words": [
-        "stay",
-        "stag",
-        "days",
-        "gays",
-        "tags"
+        "lair",
+        "liar",
+        "rail",
+        "jail",
+        "jilt",
+        "tail",
+        "trail",
+        "trial"
       ]
     },
     {
-      "stage": "sdyagtf",
+      "stage": "alirjtk",
       "words": [
-        "stay",
-        "stag",
-        "days",
-        "daft",
-        "gays",
-        "tags",
-        "fast",
-        "fads",
-        "fats"
+        "lair",
+        "lark",
+        "liar",
+        "rail",
+        "jail",
+        "jilt",
+        "talk",
+        "tail",
+        "trail",
+        "trial",
+        "kilt"
       ]
     },
     {
-      "stage": "sdyagtfk",
+      "stage": "alirjtkp",
       "words": [
-        "stay",
-        "stag",
-        "days",
-        "daft",
-        "yaks",
-        "gays",
-        "task",
-        "tags",
-        "fast",
-        "fads",
-        "fats"
+        "lair",
+        "lark",
+        "liar",
+        "rail",
+        "rapt",
+        "jail",
+        "jilt",
+        "talk",
+        "tail",
+        "trail",
+        "trap",
+        "trial",
+        "trip",
+        "kilt",
+        "pail",
+        "pair",
+        "part",
+        "park"
       ]
     }
   ]
