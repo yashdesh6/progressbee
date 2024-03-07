@@ -1,82 +1,73 @@
 {
   "letters": [
-    "a",
-    "l",
-    "i",
     "r",
+    "y",
+    "u",
+    "o",
     "j",
-    "t",
-    "k",
-    "p"
+    "g",
+    "e",
+    "n"
   ],
   "stages": [
     {
-      "stage": "alir",
+      "stage": "ryuo",
       "words": [
-        "lair",
-        "liar",
-        "rail"
+        "your"
       ]
     },
     {
-      "stage": "alirj",
+      "stage": "ryuoj",
       "words": [
-        "lair",
-        "liar",
-        "rail",
-        "jail"
+        "your",
+        "jury"
       ]
     },
     {
-      "stage": "alirjt",
+      "stage": "ryuojg",
       "words": [
-        "lair",
-        "liar",
-        "rail",
-        "jail",
-        "jilt",
-        "tail",
-        "trail",
-        "trial"
+        "your",
+        "orgy",
+        "jury",
+        "gory"
       ]
     },
     {
-      "stage": "alirjtk",
+      "stage": "ryuojge",
       "words": [
-        "lair",
-        "lark",
-        "liar",
-        "rail",
-        "jail",
-        "jilt",
-        "talk",
-        "tail",
-        "trail",
-        "trial",
-        "kilt"
+        "rouge",
+        "rogue",
+        "your",
+        "urge",
+        "orgy",
+        "ogre",
+        "jury",
+        "gory",
+        "gore",
+        "ergo"
       ]
     },
     {
-      "stage": "alirjtkp",
+      "stage": "ryuojgen",
       "words": [
-        "lair",
-        "lark",
-        "liar",
-        "rail",
-        "rapt",
-        "jail",
-        "jilt",
-        "talk",
-        "tail",
-        "trail",
-        "trap",
-        "trial",
-        "trip",
-        "kilt",
-        "pail",
-        "pair",
-        "part",
-        "park"
+        "rung",
+        "rune",
+        "rouge",
+        "rogue",
+        "your",
+        "young",
+        "younger",
+        "urge",
+        "orgy",
+        "ogre",
+        "jury",
+        "journey",
+        "gory",
+        "gore",
+        "gone",
+        "goner",
+        "ergo",
+        "enjoy"
       ]
     }
   ]
