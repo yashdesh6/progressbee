@@ -1,55 +1,47 @@
 {
   "letters": [
-    "a",
-    "l",
-    "w",
+    "k",
     "c",
-    "e",
-    "b",
-    "z"
+    "i",
+    "p",
+    "w",
+    "y",
+    "r"
   ],
   "stages": [
     {
-      "stage": "alw",
+      "stage": "kci",
       "words": []
     },
     {
-      "stage": "alwc",
+      "stage": "kcip",
       "words": [
-        "claw"
+        "pick"
       ]
     },
     {
-      "stage": "alwce",
+      "stage": "kcipw",
       "words": [
-        "lace",
-        "claw"
+        "pick",
+        "wick"
       ]
     },
     {
-      "stage": "alwceb",
+      "stage": "kcipwy",
       "words": [
-        "able",
-        "lace",
-        "cable",
-        "claw",
-        "bale",
-        "bawl",
-        "blew"
+        "pick",
+        "picky",
+        "wick"
       ]
     },
     {
-      "stage": "alwcebz",
+      "stage": "kcipwyr",
       "words": [
-        "able",
-        "lace",
-        "cable",
-        "claw",
-        "bale",
-        "bawl",
-        "blaze",
-        "blew",
-        "zeal"
+        "pick",
+        "picky",
+        "prick",
+        "wick",
+        "wiry"
       ]
     }
   ]
