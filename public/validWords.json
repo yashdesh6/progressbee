@@ -1,47 +1,145 @@
 {
   "letters": [
-    "k",
-    "c",
+    "d",
+    "h",
+    "e",
+    "l",
     "i",
     "p",
-    "w",
-    "y",
-    "r"
+    "a",
+    "v"
   ],
   "stages": [
     {
-      "stage": "kci",
-      "words": []
-    },
-    {
-      "stage": "kcip",
+      "stage": "dhel",
       "words": [
-        "pick"
+        "held"
       ]
     },
     {
-      "stage": "kcipw",
+      "stage": "dheli",
       "words": [
-        "pick",
-        "wick"
+        "deli",
+        "held",
+        "hide",
+        "lied",
+        "idle"
       ]
     },
     {
-      "stage": "kcipwy",
+      "stage": "dhelip",
       "words": [
-        "pick",
-        "picky",
-        "wick"
+        "deli",
+        "held",
+        "help",
+        "hide",
+        "lied",
+        "idle",
+        "plied",
+        "pile",
+        "piled"
       ]
     },
     {
-      "stage": "kcipwyr",
+      "stage": "dhelipa",
       "words": [
-        "pick",
-        "picky",
-        "prick",
-        "wick",
-        "wiry"
+        "deli",
+        "deal",
+        "dial",
+        "held",
+        "help",
+        "head",
+        "heal",
+        "heap",
+        "hide",
+        "hale",
+        "haled",
+        "hail",
+        "hailed",
+        "lead",
+        "leap",
+        "lied",
+        "lade",
+        "laid",
+        "idea",
+        "ideal",
+        "idle",
+        "pedal",
+        "peal",
+        "plea",
+        "plead",
+        "plied",
+        "plaid",
+        "pile",
+        "piled",
+        "pale",
+        "paled",
+        "paid",
+        "pail",
+        "aide",
+        "ailed",
+        "aped"
+      ]
+    },
+    {
+      "stage": "dhelipav",
+      "words": [
+        "deli",
+        "deal",
+        "devil",
+        "dial",
+        "dive",
+        "held",
+        "help",
+        "head",
+        "heal",
+        "heap",
+        "hide",
+        "hive",
+        "hived",
+        "hale",
+        "haled",
+        "halve",
+        "halved",
+        "hail",
+        "hailed",
+        "have",
+        "evil",
+        "lead",
+        "leap",
+        "lied",
+        "live",
+        "lived",
+        "lade",
+        "laid",
+        "idea",
+        "ideal",
+        "idle",
+        "pedal",
+        "peal",
+        "plea",
+        "plead",
+        "plied",
+        "plaid",
+        "pile",
+        "piled",
+        "pale",
+        "paled",
+        "paid",
+        "pail",
+        "pave",
+        "paved",
+        "alive",
+        "aide",
+        "ailed",
+        "aped",
+        "avid",
+        "veil",
+        "veal",
+        "vied",
+        "vile",
+        "vial",
+        "valid"
       ]
     }
   ]
