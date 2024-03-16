@@ -1,71 +1,55 @@
 {
   "letters": [
     "d",
-    "n",
-    "b",
-    "o",
-    "k",
-    "l",
+    "e",
+    "f",
+    "y",
     "u",
-    "g"
+    "g",
+    "r"
   ],
   "stages": [
     {
-      "stage": "dnbo",
+      "stage": "def",
+      "words": []
+    },
+    {
+      "stage": "defy",
       "words": [
-        "bond"
+        "defy"
       ]
     },
     {
-      "stage": "dnbok",
+      "stage": "defyu",
       "words": [
-        "bond",
-        "knob"
+        "defy",
+        "feud"
       ]
     },
     {
-      "stage": "dnbokl",
+      "stage": "defyug",
       "words": [
-        "bond",
-        "bold",
-        "blond",
-        "knob"
+        "defy",
+        "edgy",
+        "feud",
+        "fudge",
+        "guyed"
       ]
     },
     {
-      "stage": "dnboklu",
+      "stage": "defyugr",
       "words": [
-        "dunk",
-        "bond",
-        "bold",
-        "bound",
-        "blond",
-        "bunk",
-        "bulk",
-        "knob",
-        "loud",
-        "undo"
-      ]
-    },
-    {
-      "stage": "dnboklug",
-      "words": [
-        "dunk",
-        "dung",
-        "bond",
-        "bold",
-        "bound",
-        "blond",
-        "blog",
-        "bunk",
-        "bung",
-        "bulk",
-        "knob",
-        "long",
-        "loud",
-        "lung",
-        "undo",
-        "gold"
+        "defy",
+        "drug",
+        "edgy",
+        "feud",
+        "fudge",
+        "fury",
+        "urge",
+        "urged",
+        "guyed",
+        "rude",
+        "rued"
       ]
     }
   ]
