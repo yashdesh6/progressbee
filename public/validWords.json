@@ -1,55 +1,73 @@
 {
   "letters": [
-    "d",
+    "n",
     "e",
+    "z",
+    "o",
+    "a",
+    "t",
     "f",
-    "y",
-    "u",
-    "g",
-    "r"
+    "y"
   ],
   "stages": [
     {
-      "stage": "def",
-      "words": []
-    },
-    {
-      "stage": "defy",
+      "stage": "nezo",
       "words": [
-        "defy"
+        "zone"
       ]
     },
     {
-      "stage": "defyu",
+      "stage": "nezoa",
       "words": [
-        "defy",
-        "feud"
+        "zone",
+        "aeon"
       ]
     },
     {
-      "stage": "defyug",
+      "stage": "nezoat",
       "words": [
-        "defy",
-        "edgy",
-        "feud",
-        "fudge",
-        "guyed"
+        "neat",
+        "note",
+        "zeta",
+        "zone",
+        "aeon",
+        "atone",
+        "tone"
       ]
     },
     {
-      "stage": "defyugr",
+      "stage": "nezoatf",
       "words": [
-        "defy",
-        "drug",
-        "edgy",
-        "feud",
-        "fudge",
-        "fury",
-        "urge",
-        "urged",
-        "guyed",
-        "rude",
-        "rued"
+        "neat",
+        "note",
+        "zeta",
+        "zone",
+        "often",
+        "aeon",
+        "atone",
+        "tone",
+        "feat",
+        "font",
+        "faze",
+        "fate"
+      ]
+    },
+    {
+      "stage": "nezoatfy",
+      "words": [
+        "neat",
+        "note",
+        "zeta",
+        "zone",
+        "zany",
+        "often",
+        "aeon",
+        "atone",
+        "tone",
+        "feat",
+        "font",
+        "faze",
+        "fate"
       ]
     }
   ]
