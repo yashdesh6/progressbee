@@ -1,73 +1,63 @@
 {
   "letters": [
-    "n",
-    "e",
-    "z",
-    "o",
-    "a",
-    "t",
+    "u",
     "f",
-    "y"
+    "l",
+    "e",
+    "t",
+    "k",
+    "n"
   ],
   "stages": [
     {
-      "stage": "nezo",
+      "stage": "ufl",
+      "words": []
+    },
+    {
+      "stage": "ufle",
       "words": [
-        "zone"
+        "fuel",
+        "flue"
       ]
     },
     {
-      "stage": "nezoa",
+      "stage": "uflet",
       "words": [
-        "zone",
-        "aeon"
+        "fuel",
+        "flue",
+        "flute",
+        "felt",
+        "lute",
+        "left"
       ]
     },
     {
-      "stage": "nezoat",
+      "stage": "ufletk",
       "words": [
-        "neat",
-        "note",
-        "zeta",
-        "zone",
-        "aeon",
-        "atone",
-        "tone"
+        "fuel",
+        "flue",
+        "flute",
+        "fluke",
+        "felt",
+        "lute",
+        "left"
       ]
     },
     {
-      "stage": "nezoatf",
+      "stage": "ufletkn",
       "words": [
-        "neat",
-        "note",
-        "zeta",
-        "zone",
-        "often",
-        "aeon",
-        "atone",
-        "tone",
-        "feat",
-        "font",
-        "faze",
-        "fate"
-      ]
-    },
-    {
-      "stage": "nezoatfy",
-      "words": [
-        "neat",
-        "note",
-        "zeta",
-        "zone",
-        "zany",
-        "often",
-        "aeon",
-        "atone",
-        "tone",
-        "feat",
-        "font",
-        "faze",
-        "fate"
+        "fuel",
+        "flue",
+        "fluent",
+        "flute",
+        "fluke",
+        "flunk",
+        "felt",
+        "lute",
+        "left",
+        "lent",
+        "tune",
+        "knelt"
       ]
     }
   ]
