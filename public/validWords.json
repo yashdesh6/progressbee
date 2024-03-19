@@ -1,63 +1,82 @@
 {
   "letters": [
-    "u",
-    "f",
-    "l",
+    "c",
+    "o",
     "e",
-    "t",
-    "k",
-    "n"
+    "m",
+    "p",
+    "w",
+    "n",
+    "t"
   ],
   "stages": [
     {
-      "stage": "ufl",
-      "words": []
-    },
-    {
-      "stage": "ufle",
+      "stage": "coem",
       "words": [
-        "fuel",
-        "flue"
+        "come"
       ]
     },
     {
-      "stage": "uflet",
+      "stage": "coemp",
       "words": [
-        "fuel",
-        "flue",
-        "flute",
-        "felt",
-        "lute",
-        "left"
+        "come",
+        "cope",
+        "mope",
+        "poem"
       ]
     },
     {
-      "stage": "ufletk",
+      "stage": "coempw",
       "words": [
-        "fuel",
-        "flue",
-        "flute",
-        "fluke",
-        "felt",
-        "lute",
-        "left"
+        "come",
+        "cope",
+        "mope",
+        "meow",
+        "poem"
       ]
     },
     {
-      "stage": "ufletkn",
+      "stage": "coempwn",
       "words": [
-        "fuel",
-        "flue",
-        "fluent",
-        "flute",
-        "fluke",
-        "flunk",
-        "felt",
-        "lute",
-        "left",
-        "lent",
-        "tune",
-        "knelt"
+        "come",
+        "cope",
+        "cone",
+        "omen",
+        "open",
+        "once",
+        "mope",
+        "meow",
+        "poem",
+        "peon",
+        "women"
+      ]
+    },
+    {
+      "stage": "coempwnt",
+      "words": [
+        "come",
+        "comet",
+        "cope",
+        "cone",
+        "cent",
+        "omen",
+        "open",
+        "once",
+        "mope",
+        "meow",
+        "poem",
+        "poet",
+        "peon",
+        "women",
+        "wont",
+        "wept",
+        "went",
+        "note",
+        "newt",
+        "tome",
+        "town",
+        "tone",
+        "tempo"
       ]
     }
   ]
