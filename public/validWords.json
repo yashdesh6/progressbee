@@ -1,73 +1,98 @@
 {
   "letters": [
-    "k",
-    "o",
-    "n",
-    "w",
-    "d",
-    "c",
+    "y",
+    "s",
+    "t",
     "a",
-    "l"
+    "h",
+    "v",
+    "f",
+    "e"
   ],
   "stages": [
     {
-      "stage": "konw",
+      "stage": "ysta",
       "words": [
-        "know"
+        "stay"
       ]
     },
     {
-      "stage": "konwd",
+      "stage": "ystah",
       "words": [
-        "know",
-        "down"
+        "stay",
+        "hays",
+        "hasty",
+        "hats"
       ]
     },
     {
-      "stage": "konwdc",
+      "stage": "ystahv",
       "words": [
-        "know",
-        "down",
-        "dock"
+        "stay",
+        "hays",
+        "hasty",
+        "hats",
+        "vast",
+        "vats"
       ]
     },
     {
-      "stage": "konwdca",
+      "stage": "ystahvf",
       "words": [
-        "know",
-        "wand",
-        "down",
-        "dock",
-        "dank",
-        "dawn"
+        "stay",
+        "shaft",
+        "hays",
+        "hasty",
+        "hats",
+        "vast",
+        "vats",
+        "fast",
+        "fats"
       ]
     },
     {
-      "stage": "konwdcal",
+      "stage": "ystahvfe",
       "words": [
-        "know",
-        "wand",
-        "walk",
-        "down",
-        "dock",
-        "dank",
-        "dawn",
-        "coal",
-        "cold",
-        "calk",
-        "clown",
-        "clod",
-        "cloak",
-        "clan",
-        "clank",
-        "claw",
-        "clad",
-        "lock",
-        "loan",
-        "load",
-        "land",
-        "lawn",
-        "lack"
+        "yeast",
+        "stay",
+        "stave",
+        "save",
+        "safe",
+        "safety",
+        "shave",
+        "shaft",
+        "sheaf",
+        "seat",
+        "they",
+        "teas",
+        "ayes",
+        "hays",
+        "hasty",
+        "haste",
+        "hats",
+        "hate",
+        "hates",
+        "have",
+        "haves",
+        "heat",
+        "heats",
+        "heavy",
+        "hefty",
+        "vast",
+        "vase",
+        "vats",
+        "vest",
+        "vets",
+        "fast",
+        "fats",
+        "fate",
+        "fates",
+        "feast",
+        "feat",
+        "feats",
+        "easy",
+        "east",
+        "eats"
       ]
     }
   ]
