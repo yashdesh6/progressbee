@@ -1,98 +1,78 @@
 {
   "letters": [
+    "n",
+    "g",
+    "i",
+    "k",
+    "e",
     "y",
-    "s",
-    "t",
-    "a",
-    "h",
-    "v",
-    "f",
-    "e"
+    "o",
+    "r"
   ],
   "stages": [
     {
-      "stage": "ysta",
+      "stage": "ngik",
       "words": [
-        "stay"
+        "king"
       ]
     },
     {
-      "stage": "ystah",
+      "stage": "ngike",
       "words": [
-        "stay",
-        "hays",
-        "hasty",
-        "hats"
+        "king",
+        "eking"
       ]
     },
     {
-      "stage": "ystahv",
+      "stage": "ngikey",
       "words": [
-        "stay",
-        "hays",
-        "hasty",
-        "hats",
-        "vast",
-        "vats"
+        "inky",
+        "king",
+        "keying",
+        "eking",
+        "eying"
       ]
     },
     {
-      "stage": "ystahvf",
+      "stage": "ngikeyo",
       "words": [
-        "stay",
-        "shaft",
-        "hays",
-        "hasty",
-        "hats",
-        "vast",
-        "vats",
-        "fast",
-        "fats"
+        "gone",
+        "inky",
+        "king",
+        "keying",
+        "eking",
+        "eying",
+        "yoking",
+        "yoke"
       ]
     },
     {
-      "stage": "ystahvfe",
+      "stage": "ngikeyor",
       "words": [
-        "yeast",
-        "stay",
-        "stave",
-        "save",
-        "safe",
-        "safety",
-        "shave",
-        "shaft",
-        "sheaf",
-        "seat",
-        "they",
-        "teas",
-        "ayes",
-        "hays",
-        "hasty",
-        "haste",
-        "hats",
-        "hate",
-        "hates",
-        "have",
-        "haves",
-        "heat",
-        "heats",
-        "heavy",
-        "hefty",
-        "vast",
-        "vase",
-        "vats",
-        "vest",
-        "vets",
-        "fast",
-        "fats",
-        "fate",
-        "fates",
-        "feast",
-        "feat",
-        "feats",
-        "easy",
-        "east",
-        "eats"
+        "gone",
+        "goner",
+        "gore",
+        "gory",
+        "grin",
+        "groin",
+        "inky",
+        "ignore",
+        "iron",
+        "irony",
+        "king",
+        "keying",
+        "eking",
+        "eying",
+        "ergo",
+        "yoking",
+        "yoke",
+        "ogre",
+        "orgy",
+        "ring",
+        "rink",
+        "region",
+        "rein",
+        "reign"
       ]
     }
   ]
