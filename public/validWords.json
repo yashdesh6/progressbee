@@ -1,78 +1,63 @@
 {
   "letters": [
-    "n",
-    "g",
-    "i",
-    "k",
-    "e",
-    "y",
     "o",
-    "r"
+    "l",
+    "k",
+    "i",
+    "f",
+    "e",
+    "a"
   ],
   "stages": [
     {
-      "stage": "ngik",
+      "stage": "olk",
+      "words": []
+    },
+    {
+      "stage": "olki",
       "words": [
-        "king"
+        "kilo"
       ]
     },
     {
-      "stage": "ngike",
+      "stage": "olkif",
       "words": [
-        "king",
-        "eking"
+        "kilo",
+        "folk",
+        "foil"
       ]
     },
     {
-      "stage": "ngikey",
+      "stage": "olkife",
       "words": [
-        "inky",
-        "king",
-        "keying",
-        "eking",
-        "eying"
+        "like",
+        "life",
+        "kilo",
+        "folk",
+        "foil",
+        "file"
       ]
     },
     {
-      "stage": "ngikeyo",
+      "stage": "olkifea",
       "words": [
-        "gone",
-        "inky",
-        "king",
-        "keying",
-        "eking",
-        "eying",
-        "yoking",
-        "yoke"
-      ]
-    },
-    {
-      "stage": "ngikeyor",
-      "words": [
-        "gone",
-        "goner",
-        "gore",
-        "gory",
-        "grin",
-        "groin",
-        "inky",
-        "ignore",
-        "iron",
-        "irony",
-        "king",
-        "keying",
-        "eking",
-        "eying",
-        "ergo",
-        "yoking",
-        "yoke",
-        "ogre",
-        "orgy",
-        "ring",
-        "rink",
-        "region",
-        "rein",
-        "reign"
+        "loaf",
+        "like",
+        "life",
+        "leak",
+        "leaf",
+        "lake",
+        "kilo",
+        "folk",
+        "foil",
+        "foal",
+        "flea",
+        "flak",
+        "flake",
+        "file",
+        "fake",
+        "fail",
+        "alike"
       ]
     }
   ]
