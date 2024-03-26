@@ -1,63 +1,70 @@
 {
   "letters": [
-    "o",
-    "l",
-    "k",
     "i",
-    "f",
     "e",
-    "a"
+    "t",
+    "x",
+    "c",
+    "h",
+    "p",
+    "y"
   ],
   "stages": [
     {
-      "stage": "olk",
-      "words": []
-    },
-    {
-      "stage": "olki",
+      "stage": "ietx",
       "words": [
-        "kilo"
+        "exit"
       ]
     },
     {
-      "stage": "olkif",
+      "stage": "ietxc",
       "words": [
-        "kilo",
-        "folk",
-        "foil"
+        "exit",
+        "cite"
       ]
     },
     {
-      "stage": "olkife",
+      "stage": "ietxch",
       "words": [
-        "like",
-        "life",
-        "kilo",
-        "folk",
-        "foil",
-        "file"
+        "itch",
+        "etch",
+        "ethic",
+        "exit",
+        "cite"
       ]
     },
     {
-      "stage": "olkifea",
+      "stage": "ietxchp",
       "words": [
-        "loaf",
-        "like",
-        "life",
-        "leak",
-        "leaf",
-        "lake",
-        "kilo",
-        "folk",
-        "foil",
-        "foal",
-        "flea",
-        "flak",
-        "flake",
-        "file",
-        "fake",
-        "fail",
-        "alike"
+        "itch",
+        "etch",
+        "ethic",
+        "exit",
+        "epic",
+        "cite",
+        "chip",
+        "pitch"
+      ]
+    },
+    {
+      "stage": "ietxchpy",
+      "words": [
+        "itch",
+        "itchy",
+        "etch",
+        "ethic",
+        "exit",
+        "epic",
+        "they",
+        "type",
+        "cite",
+        "city",
+        "chip",
+        "piety",
+        "pitch",
+        "pithy",
+        "pity",
+        "yeti"
       ]
     }
   ]
